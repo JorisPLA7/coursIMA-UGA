@@ -1,7 +1,7 @@
 <h1>Memento inf203</h1>
 <h2>GDB</h2>
 
-<p>Pour obtenir un code débuggable : <code> clang -g monfich.c && gdb a.out</code></p>
+<p>Pour obtenir un code débuggable : <code> clang -g monfich.c ; gdb a.out</code></p>
 
 Principales commandes de GDB :
 * <code><strong>b</strong>reak nom/num_ligne</code> : ajoute un point d'arrêt lors de l'execution.
